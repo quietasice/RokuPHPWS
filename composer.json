@@ -1,5 +1,5 @@
 {
-  "name": "raymauge/rokuwsphp",
+  "name": "quietasice/rokuwsphp",
   "description": "PHP Library for handling communication with Roku Web Services API",
   "keywords" : ["roku", "web", "services", "api"],
   "homepage" : "https://github.com/rmauge/RokuPHPWS",
